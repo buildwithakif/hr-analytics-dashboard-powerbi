@@ -27,7 +27,7 @@ This project is an interactive Power BI dashboard designed to analyze employee a
 ![Dashboard](dashboard.png)
 
 ## 🔗 Project Link
-[View Dashboard]([https://drive.google.com/your-link](https://drive.google.com/file/d/1-6I2dUoF89DPx0OubtQTFJp9lgQjiO5_/view?usp=drive_link))
+[View Dashboard](https://drive.google.com/file/d/1-6I2dUoF89DPx0OubtQTFJp9lgQjiO5_/view?usp=drive_link)
 
 ## 📥 How to Use
 Download the `.pbix` file and open it using Microsoft Power BI Desktop to explore the dashboard interactively.
